@@ -67,23 +67,6 @@
 
 ---
 
-### Featured Projects
-
-| Project | Description |
-|--------|-------------|
-| [**HR Management**](https://github.com/ITI-Grad-Team/HR-Management-System) | Manage employees & candidates (under development) |
-| [**Campoal (Spark Fund)**](https://github.com/ITI-Grad-Team/spark-fund) | Crowdfunding platform built with Django REST & React |
-| [**Movie Box**](https://github.com/ahmed-elsabbagh778/Movies-App) | React app to browse movies & TV shows |
-
----
-
-### Contact Me
-
-- Email: [ahmedelsabbagh973@gmail.com](mailto:ahmedelsabbagh973@gmail.com)  
-- LinkedIn: [linkedin.com/in/ahmedelsabbagh3](https://www.linkedin.com/in/ahmedelsabbagh3)  
-- Portfolio: [ahmed-elsabbagh.netlify.app](https://ahmed-elsabbagh.netlify.app)
-
----
 
 <p align="center">
   <b>Thanks for visiting! Let's build something amazing together</b>
