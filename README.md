@@ -43,8 +43,7 @@ I am a **Backend Developer**. I specialize in building scalable web applications
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmed-elsabbagh778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmed-elsabbagh778&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=ahmed-elsabbagh778&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Ahmed's GitHub Stats" />
 </div>
 
 <br/>
